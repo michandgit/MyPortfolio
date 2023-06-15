@@ -1,0 +1,43 @@
+
+.edu{
+    background-color: antiquewhite;
+    width:100%;
+}
+
+
+.headingedu{
+    font-family: 'Geologica', sans-serif;
+    font-size: 50px;
+    color:blue;
+    text-align: center;
+}
+
+.dataofedu{
+    border: none;
+    padding:90px;
+    padding-left:20px ;
+    width:50%;
+    margin-top: 40px;
+    margin-left:30px;
+    background-color: lightblue;
+    box-shadow:10px 10px lightgray;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(80, 77, 77);
+
+    
+}
+
+.infocontai{
+    display:flex;
+    flex-direction: row;
+   
+}
+.book img{
+    
+    width:400px;
+    height:300px;
+    object-fit:cover;
+    margin:80px ;
+    box-shadow: 10px 10px lightgray;
+
+}
