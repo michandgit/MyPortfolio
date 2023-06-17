@@ -73,43 +73,4 @@
     background-color: rgb(224, 135, 135);
     color:black
 }
-/* 
-.sidebarGo{
-    transform:translate(-442px , 0px);
-    position:absolute;
-
-}
-
-.ham{
-    top:10px;
-    left:10px;
-    position:absolute;
-    cursor:pointer;
-    /* height:4px;
-    width:3px; */
-/* }
-
-.ham img{
-    height:20px;
-    width:30px;
-}
-
-.cross{
-    top:2px;
-    margin:10px;
-    left:145px;
-    position:absolute;
-    cursor:pointer;
-    height:30px;
-    width:30px;
-}
-
-@media only screen and(max-width<992){ */
-    /* .sidebar{
-        transform:translate(-442px , 0px);
-        position:absolute;
-
-    } }*/
-
-
 
