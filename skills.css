@@ -1,6 +1,8 @@
 
 .features{
-    background-color:aliceblue;
+    background:url("./aesbg.jpg") no-repeat center center/cover;
+    width:100%;
+    height:100%;
 }
 
 .sidebar{
@@ -9,25 +11,24 @@
 }
 #tophead h2{
  font-family: 'Geologica', sans-serif;
- font-size:50px;
+ font-size:3.3rem;
  color:blue;
- /* width:80%; */
  
 
 }
 .containerforskills{
     box-shadow: 10px 10px #A6A1ED;
-    margin:20px;
-    margin-top:0px;
+    margin:4%;
+    margin-top:0%;
     background-color:rgb(212, 236, 243);
 }
 #tophead{
     text-align:center;
-    padding:30px;
+    padding:2%;
 }
 
-.data{
-    padding:40px;
+.data {
+    padding:3%;
 }
 
 section{
